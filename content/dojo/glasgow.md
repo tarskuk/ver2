@@ -5,7 +5,7 @@ draft: false
 
 dojoName: Roshukai Glasgow Kensaki
 dojoMon:
-  src: "/hugo2/img/kensaki-mon.jpg"
+  src: "/ver2/img/kensaki-mon.jpg"
   alt:
 
 dojoLeader: Robert Boyd
@@ -13,18 +13,18 @@ dojoLeader: Robert Boyd
 facebook: "https://www.facebook.com/RoshukaiKensaki/"
 email: "roshukai.kensaki@outlook.com"
 
-imgLeader: "/hugo2/img/Robert-Boyd.jpg"
+imgLeader: "/ver2/img/Robert-Boyd.jpg"
 imgText:
-  url: "/hugo2/img/kensaki-nats-2019.jpg"
+  url: "/ver2/img/kensaki-nats-2019.jpg"
   alt: BKA Nationals 2019
 imgGroup:
-  url: /hugo2/img/Glasgow-group.jpg
+  url: /ver2/img/Glasgow-group.jpg
   alt: Dojo members Jan 2020
 imgSeniors:
-  url: /hugo2/img/Glasgow-summer19.jpg
+  url: /ver2/img/Glasgow-summer19.jpg
   alt: Summer 2019
 imgSensei1:
-  url: "/hugo2/img/RB-Turin-2017.png"
+  url: "/ver2/img/RB-Turin-2017.png"
   alt: EIC Turin 2017
 
 session1:

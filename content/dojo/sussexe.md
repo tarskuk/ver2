@@ -9,7 +9,7 @@ dojoLeader: Nicholas Bland
 facebook: "https://www.facebook.com/RoshukaiSussex/"
 email: "sussexiaido@outlook.com"
 
-imgLeader: /hugo2/img/Nicholas-Bland.jpg
+imgLeader: /ver2/img/Nicholas-Bland.jpg
 imgText:
   url:
   alt:
